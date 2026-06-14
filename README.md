@@ -1,7 +1,7 @@
 # 🛡️ DeepGuard — Real-Time Deepfake Detection System
 
 A production-ready deepfake detection system powered by **EfficientNet-B4** and **Grad-CAM**.
-Upload images, videos, or use your webcam for real-time analysis with explainable AI heatmaps
+Upload images, videos, or use your webcam for real-time analysis with explainable AI heatmaps 
 that highlight manipulated regions.
 
 ---
