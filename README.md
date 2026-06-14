@@ -59,7 +59,7 @@ that highlight manipulated regions.
 | 📄 PDF Reports | Downloadable visual analysis reports |
 | 🔐 API Authentication | Optional API key middleware |
 | 🐳 Docker Support | One-command deployment with Docker Compose |
-| 🏋️ Training Script | Fine-tune on custom datasets (FaceForensics++, DFDC) |
+| 🏋️ Training Script | Fine-tune on custom datasets (FaceForensics++, DFDC) | 
 
 ---
 
